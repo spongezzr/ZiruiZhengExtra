@@ -18,6 +18,9 @@ public class ESPN extends AppCompatActivity {
 
     }
     /*
+
+    // this is a method I found on Stack OverFlow, but it will get the "Cleartext" error again. //
+
     public class MyWebViewClient extends WebViewClient {
         @Override
         public boolean shouldOverrideUrlLoading(WebView view, String url) {
