@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ZiruiZhengExtra</string>
+    <string name="buttonUCSD">UCSD Extension</string>
+    <string name="buttonESPN">ESPN</string>
+    <string name="helloWorld">Pick a Website!</string>
+</resources>
